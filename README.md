@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Worknet** — a job portal platform built using **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**
-- 💻 Tech Stack: `JavaScript`, `TypeScript`, `React`, `Next.js`, `Node.js`, `Express`, `MongoDB`, `HTML`, `CSS`, `Tailwind CSS`
+- 💻 Tech Stack: `JavaScript`, `TypeScript`, `React`, `Next.js`, `Node.js`, `Express`, `MongoDB`, `HTML`, `CSS`, `Tailwind CSS`,`PWA`
 - 🌱 Currently deepening my knowledge in:
   - 🔹 **AWS**
   - 🔹 **Data Structures & Algorithms (DSA)**
